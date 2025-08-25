@@ -12,7 +12,7 @@ This repo contains a compact 4-class MRI classifier trained in Colab and package
 
 ---
 
-## 1) What was done (concise summary)
+## 1) What was done
 
 - **Data ingestion & sanity checks**
   - Verified class folders: `Training/` and `Testing/` with 4 classes each.
