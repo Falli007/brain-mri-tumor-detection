@@ -1,0 +1,9 @@
+# --- Streamlit app (CPU-only) ---
+streamlit>=1.31
+pillow>=10.0
+pandas>=2.0
+numpy>=1.26,<2.0
+
+# --- CPU TensorFlow/Keras (works with TFSMLayer) ---
+tensorflow-cpu==2.20.0
+# (Installing this will also pull in a compatible keras package automatically.)
