@@ -155,7 +155,7 @@ streamlit run app_streamlit.py
 
 ---
 
-## 7) Files (copy these verbatim)
+## 7) Files
 
 ### `requirements.txt`
 ```text
@@ -489,7 +489,7 @@ else:
 
 ---
 
-## 8) Re-export (if you retrain)
+## 8) Re-export
 
 In Colab:
 
